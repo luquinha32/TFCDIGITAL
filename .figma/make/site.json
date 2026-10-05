@@ -1,0 +1,10 @@
+{
+  "description": "Facilitates final project submissions with dedicated login areas for students and professors, allowing easy project delivery and review.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
